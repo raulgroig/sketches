@@ -1,6 +1,6 @@
 /*
 The goal of this game is to repeat a sequence of lights and notes with 7 levels of difficulty. 
-Based on the "Piezo Buzzer Sound Recall Game" example of Lee Assam from Arduino Bootcamp.
+Based on the "Piezo Buzzer Sound Recall Game" example by Lee Assam from Arduino Bootcamp.
 Created: 26/06/2020
 Author: Raul G Roig
 */
